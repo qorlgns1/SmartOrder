@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SmartOrderApplication {
 
 	public static void main(String[] args) {
+		System.out.println("배기훈 짱");
 		SpringApplication.run(SmartOrderApplication.class, args);
 	}
 
